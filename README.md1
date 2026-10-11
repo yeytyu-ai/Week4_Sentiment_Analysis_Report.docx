@@ -1,0 +1,43 @@
+
+# Text Analytics and Sentiment Analysis
+
+## Project Overview
+This project focuses on analysing customer reviews related to beauty and wellness products using Python. The goal is to understand customer opinions and classify reviews into positive, negative, and neutral sentiments.
+
+## Objectives
+- Clean and preprocess text data.
+- Tokenize customer reviews.
+- Analyse customer sentiment.
+- Visualize sentiment results.
+- Identify useful insights from customer feedback.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- NLTK / TextBlob
+- WordCloud
+
+## Project Files
+- `text_preprocessing.py` – Cleans review text.
+- `text_tokenization.py` – Tokenizes text.
+- `sentiment_analysis.py` – Analyses review sentiment.
+- `sentiment_visualization.py` – Creates sentiment charts.
+- `sentiment_percentage.py` – Calculates sentiment percentages.
+- `wordcloud_visualization.py` – Generates a word cloud.
+- `sentiment_analysis_results.csv` – Stores analysis results.
+
+## Methodology
+1. Load the customer review dataset.
+2. Clean and preprocess the text.
+3. Tokenize the reviews.
+4. Classify sentiment as positive, negative, or neutral.
+5. Calculate sentiment distribution.
+6. Visualize the results using charts and a word cloud.
+
+## Expected Outcome
+The project helps understand customer feedback and demonstrates how text analytics can support data-driven decisions in the beauty and wellness industry.
+
+## Conclusion
+This project provides practical experience with Python, text preprocessing, sentiment analysis, and data visualization.
+
